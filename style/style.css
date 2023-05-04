@@ -1,0 +1,33 @@
+body {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #060D10;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: #66D1FF;
+}
+
+.button-header a {
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}
+
+.button-header {
+  background-color: #fff;
+  width: 276px;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.header-tel {
+  font-size: 28px;
+}
